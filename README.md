@@ -1,4 +1,4 @@
 # CamPhish-master
 
-#cd CamPhish
-bash camphish.sh
+#cd CamPhish-master
+#bash camphish.sh
