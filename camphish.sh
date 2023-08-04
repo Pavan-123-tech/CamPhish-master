@@ -7,7 +7,11 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-
+ printf " PPPP    AAA   W   W   A   N   N "
+ printf " P   P  A   A  W   W  A A  NN  N "
+ printf " PPPP   AAAAA  W W W AAAAA N N N "
+ printf " P      A   A  W W W A   A N  NN "
+ printf " P      A   A  W   W A   A N   N "
 printf " \e[1;77m www.CodingArena.net |instagram/iampawanraut \e[0m \n"
 
 printf "\n"
